@@ -91,80 +91,9 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏥 Medicare — Healthcare Management System
-
-**Spring Boot • PostgreSQL • React • JWT • Microservices**
-
-Healthcare management platform supporting patients, doctors and staff.
-
-- 👨‍⚕️ Doctor & Patient Management
-- 📅 Appointment Booking
-- 🔐 JWT Authentication & Role-Based Access
-- 💊 Prescription Management
-- 📋 Medical Records
-- 🧩 Microservices Architecture
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday7027/medicare-healthcare-management-system)
-
----
-
-### 📄 DocuQuery — AI Document Q&A
-
-**Python • FastAPI • React • PostgreSQL • pgvector • LangChain • Gemini**
-
-A RAG-based application for uploading PDF documents and asking questions using natural language.
-
-- 📄 PDF document processing
-- ✂️ Document chunking with LangChain
-- 🧠 Vector embeddings
-- 🔎 Semantic similarity search
-- 🗃️ PostgreSQL + pgvector
-- 🤖 Gemini-powered answers
-- ⚡ FastAPI backend
-
----
-
-### 🛒 E-Commerce Microservices
-
-**Spring Boot • Kafka • Docker • PostgreSQL • Eureka • API Gateway**
-
-A distributed e-commerce backend built around microservices and event-driven communication.
-
-- 🔐 Authentication Service
-- 📦 Product Service
-- 🛍️ Order Service
-- 🌐 API Gateway
-- 🔍 Eureka Service Registry
-- 📨 Apache Kafka
-- 🐳 Docker & Docker Compose
-- 🔗 OpenFeign
-
----
-
-### 💰 Expense Tracker
-
-**React • Spring Boot • PostgreSQL • JWT**
-
-Full-stack expense management application with a Java/Spring Boot backend.
-
-- 🔐 JWT Authentication
-- 💸 Expense Tracking
-- 📊 Expense Categorization
-- ✏️ CRUD Operations
-- 🗄️ PostgreSQL Persistence
-- 📱 Responsive React UI
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday7027/ExpenseTracker)
-
----
-
 # 🧠 Currently Learning
 
 ```text
-Java & Spring Boot
-        ↓
 Microservices Architecture
         ↓
 Kafka & Event-Driven Systems
@@ -211,14 +140,6 @@ Agentic AI
   <a href="https://leetcode.com/u/5skupYEbv7/">
     <img src="https://leetcard.jacoblin.cool/5skupYEbv7?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
   </a>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday7027&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
